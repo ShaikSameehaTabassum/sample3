@@ -1,0 +1,21 @@
+{
+	"name": "practice_works_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "jaggii@zoho.com",
+	"dependencies": {
+		"bcrypt": "^5.0.1",
+		"bootstrap": "^5.1.3",
+		"crypto": "^1.0.1",
+		"cryptr": "^6.0.2",
+		"ejs": "^3.1.6",
+		"express": "^4.17.2",
+		"express-flash": "^0.0.2",
+		"express-session": "^1.17.2",
+		"lodash": "^4.17.21",
+		"node-rsa": "^1.1.1",
+		"passport": "^0.5.2",
+		"passport-local": "^1.0.0",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "practice_works_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
